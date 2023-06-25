@@ -1,6 +1,9 @@
 # Hi there, I'm Manish! 👋
 
-I am a third-year Computer Engineering Student at Don Bosco Institute of Technology. I like competitive programming. I participated in Smart India Hackathon Finale 2022 and like to get involved in many such competitions. I have a Unity 2D game named RescueBud published on Google PlayStore. I am a CyberSecurity enthusiast and like to learn new things.
+I am a final-year Computer Engineering Student at the Don Bosco Institute of Technology. I am a CyberSecurity enthusiast and eager to enter the field. In my college, I have opted for the Honours degree in CyberSecurity to learn new and exciting things. 
+I take up courses and practice on TryHAckMe and HackTheBox Platforms to keep me updated with advancements in Cyber-Security. I practice competitive programming to solve problems in the most convenient way. I practice it on platforms like Leetcode and HackerRank. I have also won a few Coding Competitions organised at my college.
+I have participated in Smart India Hackathon Finale 2022 where we build a python and javascript-based desktop application. I have 2 Unity-based Android games named RescueBud and Astro Expedition published on Google PlayStore with a total of 500+ downloads.
+
 <!--
 **manishshingre/manishshingre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
